@@ -1,0 +1,7 @@
+* {
+	background: hsla(0, 0%, 0%, 0.1) !important;
+	box-shadow: hsla(0, 100%, 100%, 0.3) 0 0 10px;
+}
+img, video {
+	opacity: 0.7 !important;
+}
